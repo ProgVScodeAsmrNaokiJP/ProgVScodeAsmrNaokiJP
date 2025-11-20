@@ -1,64 +1,126 @@
-#  👾 Naoki / 高校生クリエイター
+2: # 👾 Naoki / 高校生クリエイター
 
-💥 コードで世界をぶっ飛ばす高校生クリエイター  
-退屈なコード？そんなもんぶっ壊して、エフェクトとアニメーションで魅せるぜ！
+「作るのが好きだから作る」。  
+ただそれだけで、今日もコードを書いてます。  
+VSCode と Cursor をフル武装して、気になった技術は全部触ってみるタイプ。
 
----
-
-## 🧰 Skills
-<span style="color:#FF4500">C++</span> | <span style="color:#1E90FF">C#</span> | <span style="color:#32CD32">Python</span> | <span style="color:#FFD700">TypeScript</span> | <span style="color:#FF69B4">JavaScript</span> | HTML/CSS/SCSS | XML | Markdown  
-その他：Kotlin / Dart / Java（練習中）  
+**Webもゲームもスクリプトも、やりたいと思ったら普通に作る。  
+そんな自由スタイルでやってます。**
 
 ---
 
-## 🚀 Projects
+# 🚀 Tech Stack（触った技術、盛ってないやつ）
 
-<details>
-<summary>💻 Web & UI 実験室</summary>
+### 🌐 Web
+- **HTML（20%↑）**
+- CSS / SCSS  
+- JavaScript / TypeScript  
 
-- [Naoki流魔改造Web](https://github.com/ProgVScodeAsmrNaokiJP/YourWebProject)  
-  ![Web GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-  Webアニメーションで遊び尽くす！クリックで爆発エフェクトも！🔥
+### 🧪 Scripting / Logic
+- Python  
+- C++  
+- C#（Unity）  
 
-- [CSS爆速アニメーション](https://github.com/ProgVScodeAsmrNaokiJP/YourCSSProject)  
-  ![CSS GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-  色と動きで魅せるNaoki流 UI デザイン
-</details>
+### 📱 Mobile / App
+- Kotlin  
+- Dart  
+- Java  
 
-<details>
-<summary>🎮 Unity & ゲーム実験室</summary>
+### 📝 Other
+- Markdown  
+- XML  
 
-- [Unityミニゲームコレクション](https://github.com/ProgVScodeAsmrNaokiJP/YourUnityProject)  
-  ゲームの仕掛けとギミックを遊びながら学ぶ実験場
-
-- [C#でゴリゴリ操作](https://github.com/ProgVScodeAsmrNaokiJP/YourCSharpProject)  
-  スクリプト魔法でキャラクター爆走！
-</details>
-
-<details>
-<summary>🐍 Python & ツール系</summary>
-
-- [Python解析ツール](https://github.com/ProgVScodeAsmrNaokiJP/YourPythonProject)  
-  データをゴリゴリ解析して、見えない世界を可視化
-</details>
+### 🛠 Tools
+- VSCode / Cursor  
+- Unity  
+- GitHub  
+- TouchDesigner（ちょい触り勢）
 
 ---
 
-## 🛠 Now Working On
-- C++で何かヤバいツール作ってる…🤫  
-- Pythonでデータ解析ゴリゴリ中  
-- 次のWebプロジェクトはスマホ完全対応で超スムーズ化計画中
+# 🎨 Projects（自分の作品を“作品”として紹介する場所）
+
+ここでは、**“俺の色” があるものだけピックして紹介**してる。  
+増えたらまた追加していく。
 
 ---
 
-## 📱 My Mind Map Style
-- Obsidianマインドマップ式で授業ノートも整理中  
-- GitHub READMEもマインドマップ感覚でセクションを折りたたみ  
-- スマホでも見やすさMAXで攻める！💪
+## 🔥 1. **Web Animation Playground**
+**ジャンル：Webアニメーション / UI演出**
+
+シンプルだけど中毒性ある動きとか、  
+「ん？今の気持ち良くね？」ってなるやつを研究してる作品群。
+
+- HTML / CSS / JS の組み合わせ
+- マウスホバー、フェード、スライド系の動き多め
+- UIエフェクト実験スペース
+
+> “見た瞬間にわかる気持ちよさ” をどう作るか、ずっと考えてる。
 
 ---
 
-## ✨ Let’s Connect
-[YouTube](https://www.youtube.com/@Prog_Asmr_VScode_Naoki_JP)  | [Portfolio](http://127.0.0.1:5500/index.html)
+## 🎮 2. **Mini JS/TS Games**
+**ジャンル：ブラウザミニゲーム**
+
+短時間でも遊べるゲームをTSで制作中。  
+クリック・反射・ミニパズル系が多い。
+
+- TypeScriptメイン  
+- 描画ロジック / あたり判定の基礎  
+- BGMや軽めのアニメーションも研究中
+
+> “遊ばれるゲーム” じゃなくて “触りたくなるゲーム” を作るのが目標。
 
 ---
+
+## 🕹️ 3. **Unity Playground**
+**ジャンル：Unity / C#**
+
+3Dモデル動かしたり、ライトいじったり、  
+動く→止まる→また動く、みたいな実験をまとめてる場所。
+
+- C#基礎  
+- 3Dカメラ操作  
+- プレイヤー移動の基本  
+- UI演出や画面切り替えのテスト
+
+> “ゲームエンジンで世界を組むってマジで楽しい。”
+
+---
+
+## ⚙️ 4. **C++ Console Experiments**
+**ジャンル：C++ミニ実験**
+
+C++で、  
+「どうやって動いてるのか」を自分で確かめるための試作シリーズ。
+
+- 文字ベースRPG（準備中）  
+- 乱数生成  
+- 入力処理  
+- シンプルなクラス設計  
+
+> “低レイヤーって沼だけど、知れば知るほど面白くなる世界。”
+
+---
+
+# 📈 GitHub Stats（自分の成長を可視化するやつ）
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgVScodeAsmrNaokiJP&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgVScodeAsmrNaokiJP&layout=compact&theme=tokyonight)
+
+---
+
+# 🌱 現在進行形
+- **C++ / C# をもっと深掘り中**
+- **Web作品をもっと綺麗に動かす研究**
+- **TouchDesignerでも作品作れるようになりたい**
+
+---
+
+# 📫 Contact
+YouTube / GitHub Issues からどうぞ。
+
+---
+
+> **“技術に正解はないし、好きに作ったやつが最強。”**
+> — Naoki
