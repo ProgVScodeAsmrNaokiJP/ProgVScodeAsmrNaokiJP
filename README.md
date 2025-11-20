@@ -1,15 +1,11 @@
 # 👾 Naoki / 高校生クリエイター
 
-「作るのが好きだから作る」。  
-ただそれだけで、今日もコードを書いてます。  
-VSCode と Cursor をフル武装して、気になった技術は全部触ってみるタイプ。
-
-**Webもゲームもスクリプトも、やりたいと思ったら普通に作る。  
-そんな自由スタイルでやってます。**
+**VScodeとXcodeとUnityとAndroid StudioとChatGPTとApple MusicとMacbookを武器にアプリやゲームなどを作る**
+**Webもゲームもスクリプトもそんな自由で開発してます。**
 
 ---
 
-# 🚀 Tech Stack（触った技術、盛ってないやつ）
+# 🚀 Tech Stack(技術力と知識は全体の1%・ただ知っている言語)
 
 ### 🌐 Web
 - **HTML（20%↑）**
@@ -18,62 +14,59 @@ VSCode と Cursor をフル武装して、気になった技術は全部触っ�
 
 ### 🧪 Scripting / Logic
 - Python  
-- C++  
 - C#（Unity）  
 
 ### 📱 Mobile / App
 - Kotlin  
 - Dart  
-- Java  
 
 ### 📝 Other
 - Markdown  
 - XML  
 
-### 🛠 Tools
-- VSCode / Cursor  
+### 🛠 Tools(自分の武器)
+- VSCode
+- ChatGPT
+- Apple Music
+- Macbook Air
+- AirPorts Pro 2
+- iPhone 12 Pro
+- Xcode
+- Android Studio
+- Obsidian
+- Blender
+- Safari  
 - Unity  
 - GitHub  
-- TouchDesigner（ちょい触り勢）
-
----
-
-# 🎨 Projects（自分の作品を“作品”として紹介する場所）
-
-ここでは、**“俺の色” があるものだけピックして紹介**してる。  
-増えたらまた追加していく。
 
 ---
 
 ## 🔥 1. **Web Animation Playground**
 **ジャンル：Webアニメーション / UI演出**
 
-シンプルだけど中毒性ある動きとか、  
-「ん？今の気持ち良くね？」ってなるやつを研究してる作品群。
+シンプルすぎる作品
 
 - HTML / CSS / JS の組み合わせ
 - マウスホバー、フェード、スライド系の動き多め
 - UIエフェクト実験スペース
-
-> “見た瞬間にわかる気持ちよさ” をどう作るか、ずっと考えてる。
 
 ---
 
 ## 🎮 2. **Mini JS/TS Games**
 **ジャンル：ブラウザミニゲーム**
 
-短時間でも遊べるゲームをTSで制作中。  
+短時間でも遊べるゲームをJS・Untiy・Xcodeで開発中。  
 クリック・反射・ミニパズル系が多い。
 
-- TypeScriptメイン  
-- 描画ロジック / あたり判定の基礎  
-- BGMや軽めのアニメーションも研究中
+- Web(HTML・CSS・JS)・C#・Swiftがメイン
+- 描画ロジック / あたり判定の基礎 など細かな基礎を学習中 
+- BGMや軽めのアニメーションを学習中
 
 > “遊ばれるゲーム” じゃなくて “触りたくなるゲーム” を作るのが目標。
 
 ---
 
-## 🕹️ 3. **Unity Playground**
+## 🕹️ 3. **Unity DevRoom**
 **ジャンル：Unity / C#**
 
 3Dモデル動かしたり、ライトいじったり、  
@@ -83,23 +76,9 @@ VSCode と Cursor をフル武装して、気になった技術は全部触っ�
 - 3Dカメラ操作  
 - プレイヤー移動の基本  
 - UI演出や画面切り替えのテスト
+- アニメーション動作テスト
 
-> “ゲームエンジンで世界を組むってマジで楽しい。”
-
----
-
-## ⚙️ 4. **C++ Console Experiments**
-**ジャンル：C++ミニ実験**
-
-C++で、  
-「どうやって動いてるのか」を自分で確かめるための試作シリーズ。
-
-- 文字ベースRPG（準備中）  
-- 乱数生成  
-- 入力処理  
-- シンプルなクラス設計  
-
-> “低レイヤーって沼だけど、知れば知るほど面白くなる世界。”
+> “ゲームエンジンで世界を組むって難しいけどマジで楽しい！”
 
 ---
 
@@ -111,16 +90,16 @@ C++で、
 ---
 
 # 🌱 現在進行形
-- **C++ / C# をもっと深掘り中**
+- **Python / C# / TypeScript / SCSS / Swift / JavaScript / xml / Kotlin・・・を深掘り中**
 - **Web作品をもっと綺麗に動かす研究**
-- **TouchDesignerでも作品作れるようになりたい**
 
 ---
 
 # 📫 Contact
-YouTube / GitHub Issues からどうぞ。
+YouTubeも拝見どうぞ♪
+![Youtube Link](https://youtube.com/@Prog_Asmr_VScode_Naoki_JP)
 
 ---
 
-> **“技術に正解はないし、好きに作ったやつが最強。”**
+> **“技術に正解はないし、好きに作った作品が最強！”**
 > — Naoki
