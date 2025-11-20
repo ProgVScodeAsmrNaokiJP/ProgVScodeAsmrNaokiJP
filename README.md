@@ -97,7 +97,7 @@
 
 # 📫 Contact
 YouTubeも拝見どうぞ♪
-![Youtube Link](https://youtube.com/@Prog_Asmr_VScode_Naoki_JP)
+https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
 
 ---
 
