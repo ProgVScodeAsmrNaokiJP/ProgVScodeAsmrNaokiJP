@@ -4,17 +4,20 @@
 
 ```ts
 const Naoki = {
+  name: "Naoki",
+  old: "16 Years",
+  gender: "Man",
+  from: "Japan",
+  experience: "2Years",
+  My weapon: "Macbook Air・AirPods Pro 2・iPhone 12 Pro・Ai・Apple Music・VScode・Green Tea",
   role: "High School Student",
-  level: "Super Beginner",
+  level: "Noob",
   interests: ["Game", "Web", "Script"],
-  belief: "分からん → 触る → ちょっと分かる",
+  belief: "分からん → 見る → 触る → Aiを使って要約 → 理解",
 };
 ```
 
-🎧 VSCode × Unity × Xcode × ChatGPT × Apple Music
-気分と好奇心で、Web・ゲーム・アプリを作ってます。
-上手さより 続けてること を大事にしてる途中。
-
+🎧 改めまして、こんにちは！Naokiです！私は、超ド素人のプログラマーです。でも、ゲームの企画書・音楽・Aiを使いこなすのが好きです。プログラミングを始めるための武器は、"Macbook Air・AirPods Pro 2・Mouse・Second monitor・Apple Music・iPhone 12 Pro・Green Tea・Ai(Claude・ChatGPT・Gemini・Glokなど)・Notion・Obsidian・Adobe Tool"が私の武器です！
 ---
 
 ## 🧠 Mind Map / 今の自分
@@ -22,8 +25,8 @@ const Naoki = {
 - Naoki
   - Web
     - HTML（20%↑）
-    - CSS / SCSS（動かすの好き）
-    - JS / TS（分かると楽しい）
+    - CSS / SCSS（動かすのに成功しても、インパクトに違和感しかなく、コードを覚えても、実践力を身につける必要がある)
+    - JS / TS（わかっても覚えるに時間がかかる)
   - Game
     - Unity（C#）
     - ミニゲーム
@@ -31,11 +34,11 @@ const Naoki = {
   - App
     - Xcode / Swift
     - Android Studio / Kotlin
-    - Dart（触った）
+    - Dart（一通り見た)
   - Mind
-    - 完璧より完成
-    - 1日1ミス
-    - サボる日もある
+    - 企画書通りよりもアレンジ
+    - 7日10ミス
+    - サボる日なんて山ほどある
 
 ---
 
@@ -61,7 +64,7 @@ const Naoki = {
 
 ---
 
-🛠 Tools（ほぼ毎日触る）
+🛠 Best Tool
 	•	VSCode
 	•	Unity
 	•	Xcode / Android Studio
@@ -69,9 +72,7 @@ const Naoki = {
 	•	GitHub
 	•	Obsidian
 	•	Blender
-	•	MacBook Air
-	•	AirPods Pro 2
-	•	Apple Music（重要）
+	•	Apple Music
 
 ---
 
@@ -105,7 +106,7 @@ Unity / C#
 	•	UI切り替え
 	•	ライト・アニメーション実験
 
-ゲームエンジン、難しいけど楽しすぎる
+ゲームエンジン、難しいけど楽しい
 
 ---
 
@@ -132,8 +133,5 @@ https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
 
 ---
 
-「技術に正解はない。好きに作って、続けてるやつが強い。」
-— Naoki
-
-**「高校生 × 開発好き × 継続勢」の完成形README**。  
-普通に“見られる側”のやつだよ。
+「技術に正解はない。好きに考えて、開発する方が強い。」
+end
