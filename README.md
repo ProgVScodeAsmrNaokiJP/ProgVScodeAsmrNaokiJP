@@ -1,9 +1,9 @@
-# 💻self-introduction📱
+# 💻README.md(自己紹介)📱
 
 ---
 
 ```ts
-const Naoki = {
+const self-introduction = {
   name: "Naoki",
   old: "16 Years",
   gender: "Man",
