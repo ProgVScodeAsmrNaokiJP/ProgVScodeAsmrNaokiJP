@@ -1,5 +1,7 @@
 # 👾 Naoki / 高校生ド素人プログラマー
 
+–––
+
 ```ts
 const Naoki = {
   role: "High School Student",
@@ -12,7 +14,9 @@ const Naoki = {
 🎧 VSCode × Unity × Xcode × ChatGPT × Apple Music
 気分と好奇心で、Web・ゲーム・アプリを作ってます。
 上手さより 続けてること を大事にしてる途中。
-⸻
+
+–––
+
 ## 🧠 Mind Map / 今の自分
 
 - Naoki
@@ -32,7 +36,9 @@ const Naoki = {
     - 完璧より完成
     - 1日1ミス
     - サボる日もある
+
 ⸻
+
 🧰 Tech Stack（理解度 ≠ 実力）
 
 🌐 Web
