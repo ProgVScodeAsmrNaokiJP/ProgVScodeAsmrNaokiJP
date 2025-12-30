@@ -13,7 +13,9 @@ const Naoki = {
 気分と好奇心で、Web・ゲーム・アプリを作ってます。
 上手さより 続けてること を大事にしてる途中。
 
+
 ⸻
+
 
 ## 🧠 Mind Map / 今の自分
 
@@ -38,6 +40,7 @@ const Naoki = {
 
 ⸻
 
+
 🧰 Tech Stack（理解度 ≠ 実力）
 
 🌐 Web
@@ -58,7 +61,9 @@ const Naoki = {
 	•	Markdown
 	•	XML
 
+
 ⸻
+
 
 🛠 Tools（ほぼ毎日触る）
 	•	VSCode
@@ -72,7 +77,9 @@ const Naoki = {
 	•	AirPods Pro 2
 	•	Apple Music（重要）
 
+
 ⸻
+
 
 🎮 Works / Playground
 
@@ -83,7 +90,9 @@ HTML / CSS / JS
 	•	UIアニメーション練習場
 	•	地味だけど楽しいやつ
 
+
 ⸻
+
 
 🕹 Mini JS / TS Games
 
@@ -94,7 +103,9 @@ Browser / Unity / Xcode
 
 「遊ばれる」より「触りたくなる」ゲームを作りたい
 
+
 ⸻
+
 
 🧪 Unity DevRoom
 
@@ -106,7 +117,9 @@ Unity / C#
 
 ゲームエンジン、難しいけど楽しすぎる
 
+
 ⸻
+
 
 📈 GitHub Stats（成長ログ）
 
@@ -115,26 +128,30 @@ Unity / C#
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProgVScodeAsmrNaokiJP&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgVScodeAsmrNaokiJP&theme=tokyo-night&hide_border=true)
 
+
 ⸻
+
 
 🌱 Now Loading…
 	•	Python / C# / TypeScript / SCSS / Swift / Kotlin 深掘り中
 	•	Web表現をもっと気持ちよくしたい
 	•	ゲームとUIの中間みたいなの作りたい
 
+
 ⸻
+
 
 📫 Contact
 
 🎥 YouTube
 https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
 
+
 ⸻
 
-「技術に正解はない。
-好きに作って、続けてるやつが強い。」
+
+「技術に正解はない。好きに作って、続けてるやつが強い。」
 — Naoki
 
-これはもう  
 **「高校生 × 開発好き × 継続勢」の完成形README**。  
 普通に“見られる側”のやつだよ。
