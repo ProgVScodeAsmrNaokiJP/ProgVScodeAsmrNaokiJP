@@ -1,104 +1,143 @@
-# 👾 Naoki / 高校生クリエイター
+# 👾 Naoki / 高校生ド素人プログラマー
 
-**VScodeとXcodeとUnityとAndroid StudioとChatGPTとApple MusicとMacbookを武器にアプリやゲームなどを作る**
-**Webもゲームもスクリプトもそんな自由で開発してます。**
+```ts
+const Naoki = {
+  role: "High School Student",
+  level: "Super Beginner",
+  interests: ["Game", "Web", "Script"],
+  belief: "分からん → 触る → ちょっと分かる",
+};
 
----
+🎧 VSCode × Unity × Xcode × ChatGPT × Apple Music
+気分と好奇心で、Web・ゲーム・アプリを作ってます。
+上手さより 続けてること を大事にしてる途中。
 
-# 🚀 Tech Stack(技術力と知識は全体の1%・ただ知っている言語)
+⸻
 
-### 🌐 Web
-- **HTML（20%↑）**
-- CSS / SCSS  
-- JavaScript / TypeScript  
+🧠 Mind Map / 今の自分（脳内）
 
-### 🧪 Scripting / Logic
-- Python  
-- C#（Unity）  
+Naoki
+ ├─ Web
+ │   ├─ HTML（20%↑）
+ │   ├─ CSS / SCSS（動かすの好き）
+ │   └─ JS / TS（分かると楽しい）
+ │
+ ├─ Game
+ │   ├─ Unity（C#）
+ │   ├─ ミニゲーム
+ │   └─ UI / 演出
+ │
+ ├─ App
+ │   ├─ Xcode / Swift
+ │   ├─ Android Studio / Kotlin
+ │   └─ Dart（触った）
+ │
+ └─ Mind
+     ├─ 完璧より完成
+     ├─ 1日1ミス
+     └─ サボる日もある
 
-### 📱 Mobile / App
-- Kotlin  
-- Dart  
 
-### 📝 Other
-- Markdown  
-- XML  
+⸻
 
-### 🛠 Tools(自分の武器)
-- VSCode
-- ChatGPT
-- Apple Music
-- Macbook Air
-- AirPorts Pro 2
-- iPhone 12 Pro
-- Xcode
-- Android Studio
-- Obsidian
-- Blender
-- Safari  
-- Unity  
-- GitHub  
+🧰 Tech Stack（理解度 ≠ 実力）
 
----
+🌐 Web
+	•	HTML（20%↑）
+	•	CSS / SCSS
+	•	JavaScript / TypeScript
 
-## 🔥 1. **Web Animation Playground**
-**ジャンル：Webアニメーション / UI演出**
+🧪 Script / Logic
+	•	Python
+	•	C#（Unity）
 
-シンプルすぎる作品
+📱 App
+	•	Swift（Xcode）
+	•	Kotlin（Android）
+	•	Dart
 
-- HTML / CSS / JS の組み合わせ
-- マウスホバー、フェード、スライド系の動き多め
-- UIエフェクト実験スペース
+📝 Other
+	•	Markdown
+	•	XML
 
----
+⸻
 
-## 🎮 2. **Mini JS/TS Games**
-**ジャンル：ブラウザミニゲーム**
+🛠 Tools（ほぼ毎日触る）
+	•	VSCode
+	•	Unity
+	•	Xcode / Android Studio
+	•	ChatGPT
+	•	GitHub
+	•	Obsidian
+	•	Blender
+	•	MacBook Air
+	•	AirPods Pro 2
+	•	Apple Music（重要）
 
-短時間でも遊べるゲームをJS・Untiy・Xcodeで開発中。  
-クリック・反射・ミニパズル系が多い。
+⸻
 
-- Web(HTML・CSS・JS)・C#・Swiftがメイン
-- 描画ロジック / あたり判定の基礎 など細かな基礎を学習中 
-- BGMや軽めのアニメーションを学習中
+🎮 Works / Playground
 
-> “遊ばれるゲーム” じゃなくて “触りたくなるゲーム” を作るのが目標。
+🔥 Web Animation Playground
 
----
+HTML / CSS / JS
+	•	フェード・ホバー・スライド系
+	•	UIアニメーション練習場
+	•	地味だけど楽しいやつ
 
-## 🕹️ 3. **Unity DevRoom**
-**ジャンル：Unity / C#**
+⸻
 
-3Dモデル動かしたり、ライトいじったり、  
-動く→止まる→また動く、みたいな実験をまとめてる場所。
+🕹 Mini JS / TS Games
 
-- C#基礎  
-- 3Dカメラ操作  
-- プレイヤー移動の基本  
-- UI演出や画面切り替えのテスト
-- アニメーション動作テスト
+Browser / Unity / Xcode
+	•	クリック・反射・ミニパズル
+	•	あたり判定・描画ロジック勉強中
+	•	BGM・軽い演出にも挑戦中
 
-> “ゲームエンジンで世界を組むって難しいけどマジで楽しい！”
+「遊ばれる」より「触りたくなる」ゲームを作りたい
 
----
+⸻
 
-# 📈 GitHub Stats
+🧪 Unity DevRoom
+
+Unity / C#
+	•	プレイヤー移動
+	•	カメラ操作
+	•	UI切り替え
+	•	ライト・アニメーション実験
+
+ゲームエンジン、難しいけど楽しすぎる
+
+⸻
+
+📈 GitHub Stats（成長ログ）
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgVScodeAsmrNaokiJP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgVScodeAsmrNaokiJP&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgVScodeAsmrNaokiJP&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ProgVScodeAsmrNaokiJP&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgVScodeAsmrNaokiJP&theme=tokyo-night&hide_border=true)
 
----
+⸻
 
-# 🌱 現在進行形
-- **Python / C# / TypeScript / SCSS / Swift / JavaScript / xml / Kotlin・・・を深掘り中**
-- **Web作品をもっと綺麗に動かす研究**
+🌱 Now Loading…
+	•	Python / C# / TypeScript / SCSS / Swift / Kotlin 深掘り中
+	•	Web表現をもっと気持ちよくしたい
+	•	ゲームとUIの中間みたいなの作りたい
 
----
+⸻
 
-# 📫 Contact
-YouTubeも拝見どうぞ♪
+📫 Contact
+
+🎥 YouTube
 https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
 
----
+⸻
 
-> **“技術に正解はないし、好きに作った作品が最強！”**
-> — Naoki
+「技術に正解はない。
+好きに作って、続けてるやつが強い。」
+— Naoki
+
+これはもう  
+**「高校生 × 開発好き × 継続勢」の完成形README**。  
+普通に“見られる側”のやつだよ。
+```
