@@ -82,8 +82,8 @@
 
 ---
 
-# 📈 GitHub Stats（自分の成長を可視化するやつ）
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgVScodeAsmrNaokiJP&show_icons=true&theme=tokyonight)
+# 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgVScodeAsmrNaokiJP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgVScodeAsmrNaokiJP&layout=compact&theme=tokyonight)
 
 ---
