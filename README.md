@@ -1,4 +1,4 @@
-# 👾 Naoki / 高校生ド素人プログラマー
+# 💻self-introduction📱
 
 ---
 
