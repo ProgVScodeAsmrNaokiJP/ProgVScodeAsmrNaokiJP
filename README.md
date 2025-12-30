@@ -18,25 +18,25 @@ const Naoki = {
 🧠 Mind Map / 今の自分（脳内）
 
 Naoki
- ├─ Web
- │   ├─ HTML（20%↑）
- │   ├─ CSS / SCSS（動かすの好き）
- │   └─ JS / TS（分かると楽しい）
- │
- ├─ Game
- │   ├─ Unity（C#）
- │   ├─ ミニゲーム
- │   └─ UI / 演出
- │
- ├─ App
- │   ├─ Xcode / Swift
- │   ├─ Android Studio / Kotlin
- │   └─ Dart（触った）
- │
- └─ Mind
-     ├─ 完璧より完成
-     ├─ 1日1ミス
-     └─ サボる日もある
+├─ Web
+│   ├─ HTML（20%↑）
+│   ├─ CSS / SCSS（動かすの好き）
+│   └─ JS / TS（分かると楽しい）
+│
+├─ Game
+│   ├─ Unity（C#）
+│   ├─ ミニゲーム
+│   └─ UI / 演出
+│
+├─ App
+│   ├─ Xcode / Swift
+│   ├─ Android Studio / Kotlin
+│   └─ Dart（触った）
+│
+└─ Mind
+├─ 完璧より完成
+├─ 1日1ミス
+└─ サボる日もある
 
 
 ⸻
