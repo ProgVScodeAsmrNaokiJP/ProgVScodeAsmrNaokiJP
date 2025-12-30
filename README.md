@@ -1,4 +1,4 @@
-# 💻README.md(自己紹介)📱
+### 💻README.md(自己紹介)📱
 
 ---
 
@@ -17,7 +17,7 @@ const self-introduction = {
 };
 ```
 
-🎧 改めまして、こんにちは！Naokiです！私は、超ド素人のプログラマーです。でも、ゲームの企画書・音楽・Aiを使いこなすのが好きです。プログラミングを始めるための武器は、"Macbook Air・AirPods Pro 2・Mouse・Second monitor・Apple Music・iPhone 12 Pro・Green Tea・Ai(Claude・ChatGPT・Gemini・Glokなど)・Notion・Obsidian・Adobe Tool"が私の武器です！
+## 🎧 改めまして、こんにちは！Naokiです！私は、超ド素人のプログラマーです。でも、ゲームの企画書・音楽・Aiを使いこなすのが好きです。プログラミングを始めるための武器は、"Macbook Air・AirPods Pro 2・Mouse・Second monitor・Apple Music・iPhone 12 Pro・Green Tea・Ai(Claude・ChatGPT・Gemini・Glokなど)・Notion・Obsidian・Adobe Tool"が私の武器です！
 ---
 
 ## 🧠 Mind Map / 今の自分
@@ -42,7 +42,7 @@ const self-introduction = {
 
 ---
 
-🧰 Tech Stack（理解度 ≠ 実力）
+## 🧰 Tech Stack（理解度 ≠ 実力）
 
 🌐 Web
 	•	HTML（20%↑）
@@ -64,7 +64,7 @@ const self-introduction = {
 
 ---
 
-🛠 Best Tool
+## 🛠 Best Tool
 	•	VSCode
 	•	Unity
 	•	Xcode / Android Studio
@@ -76,9 +76,7 @@ const self-introduction = {
 
 ---
 
-🎮 Works / Playground
-
-🔥 Web Animation Playground
+## 🔥 Web Animation Playground
 
 HTML / CSS / JS
 	•	フェード・ホバー・スライド系
@@ -87,7 +85,7 @@ HTML / CSS / JS
 
 ---
 
-🕹 Mini JS / TS Games
+## 🕹 Mini JS / TS Games
 
 Browser / Unity / Xcode
 	•	クリック・反射・ミニパズル
@@ -98,7 +96,7 @@ Browser / Unity / Xcode
 
 ---
 
-🧪 Unity DevRoom
+## 🧪 Unity DevRoom
 
 Unity / C#
 	•	プレイヤー移動
@@ -110,7 +108,7 @@ Unity / C#
 
 ---
 
-📈 GitHub Stats（成長ログ）
+## 📈 GitHub Stats（成長ログ）
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgVScodeAsmrNaokiJP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgVScodeAsmrNaokiJP&layout=compact&theme=tokyonight&hide_border=true)
@@ -119,19 +117,20 @@ Unity / C#
 
 ---
 
-🌱 Now Loading…
+## 🌱 Now Loading…
 	•	Python / C# / TypeScript / SCSS / Swift / Kotlin 深掘り中
 	•	Web表現をもっと気持ちよくしたい
 	•	ゲームとUIの中間みたいなの作りたい
 
 ---
 
-📫 Contact
+## 📫 Contact
 
-🎥 YouTube
-https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
+My YouTube channel{
+  https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
+}
 
 ---
 
-「技術に正解はない。好きに考えて、開発する方が強い。」
+##### 「技術に正解はない。好きに考えて、開発する方が強い。」
 end
