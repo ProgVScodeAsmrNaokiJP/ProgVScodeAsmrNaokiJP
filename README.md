@@ -7,6 +7,7 @@ const Naoki = {
   interests: ["Game", "Web", "Script"],
   belief: "分からん → 触る → ちょっと分かる",
 };
+```
 
 🎧 VSCode × Unity × Xcode × ChatGPT × Apple Music
 気分と好奇心で、Web・ゲーム・アプリを作ってます。
@@ -140,4 +141,3 @@ https://youtube.com/@Prog_Asmr_VScode_Naoki_JP
 これはもう  
 **「高校生 × 開発好き × 継続勢」の完成形README**。  
 普通に“見られる側”のやつだよ。
-```
