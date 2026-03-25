@@ -43,8 +43,7 @@ const naoki = {
 
 ## 🎵 Now Playing on Apple Music
 
-<!-- YOUR_LASTFM_USERNAMEを自分のLast.fmユーザー名に変更する -->
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&loved=1&count=1)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=User_Naoki_2026&loved=1&count=1)](https://www.last.fm/user/User_Naoki_2026)
 
 ---
 
@@ -120,8 +119,7 @@ Naoki
 
 ## ⏱ WakaTime Stats
 
-<!-- WakaTimeアカウント作成後、YOUR_WAKATIME_USERNAMEを置き換える -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@Prog_VScode_Naoki)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prog_VScode_Naoki&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@Prog_VScode_Naoki)
 
 ---
 
