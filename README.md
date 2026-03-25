@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=High+School+Student+%F0%9F%8F%AB;Game+%2F+Web+%2F+3D+Developer+%F0%9F%8E%AE;分からん+%E2%86%92+触る+%E2%86%92+理解+%E2%86%92+実践+%F0%9F%94%A5;Always+Learning%2C+Never+Stopping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=High+School+Student+%F0%9F%8F%AB;Game+%2F+Web+%2F+3D+Developer+%F0%9F%8E%AE;Learn+%E2%86%92+Touch+%E2%86%92+Understand+%E2%86%92+Build+%F0%9F%94%A5;Always+Learning%2C+Never+Stopping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ const naoki = {
 
 ## 🎵 Now Playing on Apple Music
 
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=User_Naoki_2026&loved=1&count=1)](https://www.last.fm/user/User_Naoki_2026)
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=User_Naoki_2026&count=5)](https://www.last.fm/user/User_Naoki_2026)
 
 ---
 
@@ -143,6 +143,7 @@ Naoki
 
 <div align="center">
 
+<!-- GitHub Actionsを実行後に表示される -->
 ![Pacman animation](https://raw.githubusercontent.com/ProgVScodeAsmrNaokiJP/ProgVScodeAsmrNaokiJP/output/github-contribution-grid-pacman-dark.svg)
 
 </div>
