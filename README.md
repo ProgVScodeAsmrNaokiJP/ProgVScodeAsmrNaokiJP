@@ -144,7 +144,7 @@ Naoki
 <div align="center">
 
 <!-- GitHub Actionsを実行後に表示される -->
-![Pacman animation](https://raw.githubusercontent.com/ProgVScodeAsmrNaokiJP/ProgVScodeAsmrNaokiJP/output/github-contribution-grid-pacman-dark.svg)
+![Metrics](./metrics.svg)
 
 </div>
 
