@@ -35,9 +35,9 @@ const naoki = {
 ## 🎧 改めまして、こんにちは！Naokiです！
 
 超ド素人のプログラマーだけど、**ゲームの企画書・音楽・AIを使いこなすのが好き**！  
-「遊ばれる」より **「触りたくなる」** ゲームやUIを作りたい。
+「遊ばれる」＋「触りたくなる」ゲームやUIを作りたい。
 
-> **「技術に正解はない。好きに考えて、開発する方が強い。」**
+> ["Aiと友達になることが第一！Aiも人と同じように物で判断してはいけない！ちゃんと賢いAiも存在している！！！Aiと相談しながら自分の作品を作ることも大切！"]
 
 ---
 
@@ -51,24 +51,22 @@ const naoki = {
 
 ```
 Naoki
-├── 🌐 Web
-│   ├── HTML (20%↑)
-│   ├── CSS / SCSS (動かせる、でも実践力を鍛え中)
-│   └── JS / TS (理解はできる、定着に時間かかる)
+├── 🌐 Web 全体の(約3~7%)
+│   ├── HTML
+│   ├── CSS
+│   └── JS
 ├── 🎮 Game
 │   ├── Unity (C#)
-│   ├── ミニゲーム制作
-│   └── UI / 演出づくり
+│   ├── ミニゲーム制作 (PyGame)
+│   └── UI
 ├── 📱 App
-│   ├── Xcode / Swift
-│   ├── Android Studio / Kotlin
-│   └── Dart (一通り見た)
+│   ├── Xcode = Swift
+│   └── Android Studio = Kotlin
 ├── 🎨 3D
-│   └── Blender (モデリング練習中)
+│   └── Blender (多機能で操作性がイマイチだが、アイデア出し・力試しで触っている)
 └── 🧠 Mind
-    ├── 企画書よりアレンジ派
-    ├── 7日10ミス上等
-    └── サボる日も山ほどある(それでも続ける)
+    ├── 企画書作り
+    └── サボる日なんて腐るほどある！(ちょっとずつ続けている)
 ```
 
 ---
@@ -78,41 +76,42 @@ Naoki
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🧪 Script / Logic
+### 🧪 Script
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🎮 Game / 3D
+### 🎮 Game = 3D
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 📱 App
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📝 Other
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
 
-## 🛠 Best Tools
+## 🛠 My Tools
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=LightBlue)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+## 🤖Best AI
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
