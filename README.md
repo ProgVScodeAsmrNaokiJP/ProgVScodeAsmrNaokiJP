@@ -21,12 +21,12 @@ const naoki = {
   experience: "2 Years",
   role:       "High School Student",
   level:      "Noob (でも成長中)",
-  interests:  ["Game 🎮", "Web 🌐", "Script 🧪", "3D 🎨"],
+  interests:  ["Game 🎮", "Web 🌐", "Tool🔨],
   weapons: [
-    "Macbook Air", "AirPods Pro 2", "iPhone 12 Pro",
-    "VSCode", "Green Tea 🍵", "AI Tools"
+    "Macbook Air", "AirPods Pro 2", "iPhone 17 Pro",
+    "VSCode", "Green Tea 🍵", "Claude"
   ],
-  belief: "分からん → 見る → 触る → AIで要約 → 理解 → 実践",
+  belief: 基本なんも作ることがなくてすぐダラけるね,
 };
 ```
 
@@ -35,7 +35,7 @@ const naoki = {
 ## 🎧 改めまして、こんにちは！Naokiです！
 
 超ド素人のプログラマーだけど、**ゲームの企画書・音楽・AIを使いこなすのが好き**！  
-「遊ばれる」＋「触りたくなる」ゲームやUIを作りたい。
+「遊ばれる」＋「触りたくなる」ゲームやUIを将来に向けて学習中
 
 > ["Aiと友達になることが第一！Aiも人と同じように物で判断してはいけない！ちゃんと賢いAiも存在している！！！Aiと相談しながら自分の作品を作ることも大切！"]
 
