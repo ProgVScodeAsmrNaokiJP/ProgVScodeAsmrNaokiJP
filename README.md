@@ -41,12 +41,6 @@ const naoki = {
 
 ---
 
-## 🎵 Now Playing on Apple Music
-
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=User_Naoki_2026&count=5)](https://www.last.fm/user/User_Naoki_2026)
-
----
-
 ## 🧠 Mind Map / 今の自分
 
 ```
